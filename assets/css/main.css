@@ -2,13 +2,13 @@
 	margin-top: 20px;
 	width: 40px;
 }
-.err {
+.err, .err2 {
 	color: red;
 }
 a {
 	font-size: 20px;
 }
-.btn-default {
+.numeros, .last {
 	padding: 1%;
 	margin: 0.5%;
 }
@@ -22,11 +22,26 @@ a {
 	font-size: 15px;
 }
 .navbar-fixed-bottom {
-	border-top: 2px solid #0080FF;
+	border-top: 2px solid #FF8708;
 }
 .legal {
 	color: black;
 }
 .resultBox {
 	margin-bottom: 150px;
+}
+
+.col-md-2 {
+	width: 12%;
+	padding: 5%;
+}
+.clear, .search, .new {
+	float: left;
+	margin: 5%;
+}
+.new {
+	margin-left: 250%;
+}
+.page-header {
+	border-bottom: 2px solid #FF8708;
 }

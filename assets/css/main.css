@@ -15,3 +15,18 @@ a {
 .btn-default:active, .btn-default:visited {
 	background-color: #4C4C4C;
 }
+
+.col-md-6, a {
+	text-align: center;
+	padding-top: 1%;
+	font-size: 15px;
+}
+.navbar-fixed-bottom {
+	border-top: 2px solid #0080FF;
+}
+.legal {
+	color: black;
+}
+.resultBox {
+	margin-bottom: 150px;
+}
